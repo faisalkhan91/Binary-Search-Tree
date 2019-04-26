@@ -1,0 +1,432 @@
+
+
+[Tree]
+
+5 is inserted
+3 is inserted
+4 is inserted
+2 is inserted
+7 is inserted
+6 is inserted
+8 is inserted
+9 is inserted
+The ancestors for 6 are: 
+5
+7
+6
+
+[Tree]
+
+5 is inserted
+7 is inserted
+6 is inserted
+8 is inserted
+The ancestors for 6 are: 
+5
+7
+6
+The ancestors for 8 are: 
+5
+7
+
+[Tree]
+
+5 is inserted
+7 is inserted
+8 is inserted
+6 is inserted
+3 is inserted
+356782 is inserted
+4 is inserted
+The ancestors for 6 are: 
+5
+7
+The ancestors for 6 are: 
+7
+5
+The ancestors for 4 are: 
+3
+5
+The ancestors for 2 are: 
+3
+5
+The ancestors for 3 are: 
+5
+The ancestors for 5 are: 
+
+[Tree]
+
+5 is inserted
+3 is inserted
+7 is inserted
+Leaf count of tree is 2
+
+[Tree]
+
+Leaf count of tree is 0
+5 is inserted
+6 is inserted
+6 is inserted
+
+[Tree]
+
+
+[Tree]
+
+5 is inserted
+7 is inserted
+577 is deleted
+5Leaf count of tree is 1
+
+[Tree]
+
+2 is inserted
+
+[Tree]
+
+5 is inserted
+3 is inserted
+2 is inserted
+6 is inserted
+7 is inserted
+8 is inserted
+235678Leaf count of tree is 2
+
+[Tree]
+
+5 is inserted
+3 is inserted
+2 is inserted
+6 is inserted
+7 is inserted
+8 is inserted
+235678Leaf count of tree is 2
+
+[Tree]
+
+5 is inserted
+3 is inserted
+2 is inserted
+6 is inserted
+2356Single Parent count of tree is 1
+
+[Tree]
+
+5 is inserted
+2 is inserted
+6 is inserted
+3 is inserted
+Single Parent count of tree is 6429858
+
+[Tree]
+
+
+[Tree]
+
+7 is inserted
+8 is inserted
+3 is inserted
+9 is inserted
+1 is inserted
+13789Single Parent count of tree is 1
+
+[Tree]
+
+Single Parent count of tree is 0
+5 is inserted
+6 is inserted
+7 is inserted
+2 is inserted
+Single Parent count of tree is 1
+
+[Tree]
+
+5 is inserted
+3 is inserted
+6 is inserted
+7 is inserted
+8 is inserted
+2 is inserted
+235678Single Parent count of tree is 14153632
+
+[Tree]
+
+5 is inserted
+3 is inserted
+6 is inserted
+7 is inserted
+3567Single Parent count of tree is 7076816
+
+[Tree]
+
+5 is inserted
+3 is inserted
+8 is inserted
+9 is inserted
+Single Parent count of tree is 7076816
+
+[Tree]
+
+5 is inserted
+6 is inserted
+7 is inserted
+3 is inserted
+3567Single Parent count of tree is 8215696
+
+[Tree]
+
+5 is inserted
+6 is inserted
+7 is inserted
+2 is inserted
+Single Parent count of tree is 1
+
+[Tree]
+
+5 is inserted
+7 is inserted
+8 is inserted
+2 is inserted
+Single Parent count of tree is 1
+
+[Tree]
+
+Single Parent count of tree is 0
+8 is inserted
+9 is inserted
+10 is inserted
+3 is inserted
+Single Parent count of tree is 1
+
+[Tree]
+
+5 is inserted
+3 is inserted
+7 is inserted
+8 is inserted
+3578Single Parent count of tree is 1
+
+[Tree]
+
+5 is inserted
+8 is inserted
+9 is inserted
+3 is inserted
+Single Parent count of tree is 1
+Single Parent count of tree is 1
+
+[Tree]
+
+
+[Tree]
+
+5 is inserted
+3 is inserted
+7 is inserted
+8 is inserted
+Single Parent count of tree is 1
+
+[Tree]
+
+5 is inserted
+3 is inserted
+6 is inserted
+7 is inserted
+Single Parent count of tree is 0
+
+[Tree]
+
+3 is inserted
+2 is inserted
+1 is inserted
+5 is inserted
+Single Parent count of tree is 1
+Single Parent count of tree is 1
+
+[Tree]
+
+5 is inserted
+6 is inserted
+7 is inserted
+3 is inserted
+3567Single Parent count of tree is 12278930
+
+[Tree]
+
+5 is inserted
+3 is inserted
+6 is inserted
+7 is inserted
+Single Parent count of tree is 1
+
+[Tree]
+
+5 is inserted
+6 is inserted
+7 is inserted
+3 is inserted
+Single Parent count of tree is 1
+Single Parent count of tree is 1
+2 is inserted
+1 is inserted
+Single Parent count of tree is 3
+
+[Tree]
+
+5 is inserted
+3 is inserted
+2 is inserted
+1 is inserted
+6 is inserted
+7 is inserted
+8 is inserted
+9 is inserted
+Single Parent count of tree is 5
+
+[Tree]
+
+
+[Tree]
+
+12345
+[Tree]
+
+-98 is inserted
+-88 is inserted
+-76 is inserted
+-71 is inserted
+-69 is inserted
+-66 is inserted
+-61 is inserted
+-50 is inserted
+-35 is inserted
+-8 is inserted
+0 is inserted
+1 is inserted
+12 is inserted
+13 is inserted
+14 is inserted
+17 is inserted
+19 is inserted
+28 is inserted
+53 is inserted
+55 is inserted
+74 is inserted
+78 is inserted
+80 is inserted
+93 is inserted
+100 is inserted
+-98-88-76-71-69-66-61-50-35-801121314171928535574788093100The ancestors for 93 are: 
+-98
+-88
+-76
+-71
+-69
+-66
+-61
+-50
+-35
+-8
+0
+1
+12
+13
+14
+17
+19
+28
+53
+55
+74
+78
+80
+The ancestors for 93 are: 
+80
+78
+74
+55
+53
+28
+19
+17
+14
+13
+12
+1
+0
+-8
+-35
+-50
+-61
+-66
+-69
+-71
+-76
+-88
+-98
+Leaf count of tree is 1
+Single Parent count of tree is 24
+
+[Tree]
+
+
+[Tree]
+
+-1000-967-923-844-669-567-455-267-209-183-59-2368132159170222228233241389479824939985
+[Tree]
+
+
+[Tree]
+
+5 is inserted
+6 is inserted
+7 is inserted
+3 is inserted
+8 is inserted
+9 is inserted
+1 is inserted
+1356789Node count of values less than parameter is0
+
+[Tree]
+
+5 is inserted
+6 is inserted
+7 is inserted
+8 is inserted
+9 is inserted
+1 is inserted
+2 is inserted
+3 is inserted
+12356789Node count of values less than parameter is 6
+
+[Tree]
+
+
+[Tree]
+
+92 is inserted
+5 is inserted
+-28 is inserted
+17 is inserted
+-55 is inserted
+-98 is inserted
+26 is inserted
+25 is inserted
+-7 is inserted
+10 is inserted
+42 is inserted
+-26 is inserted
+34 is inserted
+-52 is inserted
+52 is inserted
+76 is inserted
+-82 is inserted
+-45 is inserted
+-97 is inserted
+47 is inserted
+-72 is inserted
+-43 is inserted
+-71 is inserted
+24 is inserted
+-69 is inserted
+-98-97-82-72-71-69-55-52-45-43-28-26-751017242526344247527692Node count of values less than parameter is 23

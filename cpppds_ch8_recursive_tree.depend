@@ -1,0 +1,388 @@
+# depslib dependency file v1.0
+1472231960 source:/home/ted/unh/classes/spring17/csci-6620-s17/codeblocks/cpppds_ch8_recursive_tree/QueType.cpp
+	<cstddef>
+	<new>
+	"QueType.h"
+
+1472231960 /home/ted/unh/classes/spring17/csci-6620-s17/codeblocks/cpppds_ch8_recursive_tree/QueType.h
+	<new>
+	<cstddef>
+
+1472231960 source:/home/ted/unh/classes/spring17/csci-6620-s17/codeblocks/cpppds_ch8_recursive_tree/TreeDr.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	"TreeType.h"
+
+1488322875 /home/ted/unh/classes/spring17/csci-6620-s17/codeblocks/cpppds_ch8_recursive_tree/TreeType.h
+	<string>
+	<fstream>
+	"QueType.h"
+
+1472231958 source:/home/ted/unh/classes/spring17/csci-6620-s17/codeblocks/cpppds_ch8_recursive_tree/TreeType.cpp
+	"TreeType.h"
+
+1489192160 source:/home/ted/unh/classes/spring17/csci-6620-s17/codeblocks/cpppds_ch8_recursive_tree/tools.cpp
+	"tools.hpp"
+	<windows.h>
+	<unistd.h>
+
+1489192111 /home/ted/unh/classes/spring17/csci-6620-s17/codeblocks/cpppds_ch8_recursive_tree/tools.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<iterator>
+	<functional>
+	<limits>
+	<vector>
+	<queue>
+	<deque>
+	<list>
+	<set>
+	<map>
+	<stack>
+	<stdexcept>
+	<random>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cctype>
+	<climits>
+	<cfloat>
+	<cstdarg>
+	<cassert>
+
+1491191559 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\quetype.cpp
+	<cstddef>
+	<new>
+	"QueType.h"
+
+1491191559 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\quetype.h
+	<new>
+	<cstddef>
+
+1491191559 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\tools.cpp
+	"tools.hpp"
+	<windows.h>
+	<unistd.h>
+
+1491191559 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\tools.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<iterator>
+	<functional>
+	<limits>
+	<vector>
+	<queue>
+	<deque>
+	<list>
+	<set>
+	<map>
+	<stack>
+	<stdexcept>
+	<random>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cctype>
+	<climits>
+	<cfloat>
+	<cstdarg>
+	<cassert>
+
+1472235560 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\treedr.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	"TreeType.h"
+
+1491553958 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\treetype.h
+	<string>
+	<fstream>
+	"QueType.h"
+
+1491553958 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\treetype.cpp
+	<iostream>
+	"TreeType.h"
+
+1490583043 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	"TreeType.h"
+	"tools.hpp"
+
+1491553904 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\exercise6.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	"TreeType.h"
+	"tools.hpp"
+
+1491094103 source:c:\users\mkhan8\desktop\faisal\cpppds_ch8_recursive_tree\exercise6.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	"TreeType.h"
+	"tools.hpp"
+
+1491093776 c:\users\mkhan8\desktop\faisal\cpppds_ch8_recursive_tree\treetype.h
+	<string>
+	<fstream>
+	"QueType.h"
+
+1491087985 c:\users\mkhan8\desktop\faisal\cpppds_ch8_recursive_tree\quetype.h
+	<new>
+	<cstddef>
+
+1491087985 c:\users\mkhan8\desktop\faisal\cpppds_ch8_recursive_tree\tools.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<iterator>
+	<functional>
+	<limits>
+	<vector>
+	<queue>
+	<deque>
+	<list>
+	<set>
+	<map>
+	<stack>
+	<stdexcept>
+	<random>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cctype>
+	<climits>
+	<cfloat>
+	<cstdarg>
+	<cassert>
+
+1491087985 source:c:\users\mkhan8\desktop\faisal\cpppds_ch8_recursive_tree\quetype.cpp
+	<cstddef>
+	<new>
+	"QueType.h"
+
+1491087985 source:c:\users\mkhan8\desktop\faisal\cpppds_ch8_recursive_tree\tools.cpp
+	"tools.hpp"
+	<windows.h>
+	<unistd.h>
+
+1491094543 source:c:\users\mkhan8\desktop\faisal\cpppds_ch8_recursive_tree\treetype.cpp
+	<iostream>
+	"TreeType.h"
+
+1491121095 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\faisal\cpppds_ch8_recursive_tree\exercise6.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	"TreeType.h"
+	"tools.hpp"
+
+1491097376 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\faisal\cpppds_ch8_recursive_tree\treetype.h
+	<string>
+	<fstream>
+	"QueType.h"
+
+1491091585 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\faisal\cpppds_ch8_recursive_tree\quetype.h
+	<new>
+	<cstddef>
+
+1491091585 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\faisal\cpppds_ch8_recursive_tree\tools.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<iterator>
+	<functional>
+	<limits>
+	<vector>
+	<queue>
+	<deque>
+	<list>
+	<set>
+	<map>
+	<stack>
+	<stdexcept>
+	<random>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cctype>
+	<climits>
+	<cfloat>
+	<cstdarg>
+	<cassert>
+
+1491091585 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\faisal\cpppds_ch8_recursive_tree\quetype.cpp
+	<cstddef>
+	<new>
+	"QueType.h"
+
+1491091585 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\faisal\cpppds_ch8_recursive_tree\tools.cpp
+	"tools.hpp"
+	<windows.h>
+	<unistd.h>
+
+1491163029 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\faisal\cpppds_ch8_recursive_tree\treetype.cpp
+	<iostream>
+	"TreeType.h"
+
+1491187959 source:c:\users\mkhan8\desktop\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\quetype.cpp
+	<cstddef>
+	<new>
+	"QueType.h"
+
+1491187959 c:\users\mkhan8\desktop\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\quetype.h
+	<new>
+	<cstddef>
+
+1491187959 source:c:\users\mkhan8\desktop\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\tools.cpp
+	"tools.hpp"
+	<windows.h>
+	<unistd.h>
+
+1491187959 c:\users\mkhan8\desktop\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\tools.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<iterator>
+	<functional>
+	<limits>
+	<vector>
+	<queue>
+	<deque>
+	<list>
+	<set>
+	<map>
+	<stack>
+	<stdexcept>
+	<random>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cctype>
+	<climits>
+	<cfloat>
+	<cstdarg>
+	<cassert>
+
+1491190287 source:c:\users\mkhan8\desktop\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\treetype.cpp
+	<iostream>
+	"TreeType.h"
+
+1491187959 c:\users\mkhan8\desktop\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\treetype.h
+	<string>
+	<fstream>
+	"QueType.h"
+
+1491190287 source:c:\users\mkhan8\desktop\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree\exercise6.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	"TreeType.h"
+	"tools.hpp"
+
+1491193887 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree11111\exercise6.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	"TreeType.h"
+	"tools.hpp"
+
+1491191559 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree11111\treetype.h
+	<string>
+	<fstream>
+	"QueType.h"
+
+1491191559 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree11111\quetype.h
+	<new>
+	<cstddef>
+
+1491191559 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree11111\tools.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<iterator>
+	<functional>
+	<limits>
+	<vector>
+	<queue>
+	<deque>
+	<list>
+	<set>
+	<map>
+	<stack>
+	<stdexcept>
+	<random>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cctype>
+	<climits>
+	<cfloat>
+	<cstdarg>
+	<cassert>
+
+1491191559 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree11111\quetype.cpp
+	<cstddef>
+	<new>
+	"QueType.h"
+
+1491191559 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree11111\tools.cpp
+	"tools.hpp"
+	<windows.h>
+	<unistd.h>
+
+1491193887 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch8_recursive_tree11111\treetype.cpp
+	<iostream>
+	"TreeType.h"
+
